@@ -32,7 +32,7 @@ Mobile App developer
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,rust,cpp,python,js,html,css,bash,nodejs,react,nextjs,redux,express,mongodb,postgres,redis,docker,kubernetes,jenkins,git,github,linux,vercel,postman,vscode,regex,reactnative&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,bash,nodejs,mongodb,docker,git,github,linux,vercel,postman,vscode,angular,ionic,firebase,php,reactnative&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
