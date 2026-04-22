@@ -17,13 +17,13 @@
 <h2 align="center">🙋‍♂️ About Me</h2>
 
 <p align="center">
-Mobile App developer
+Mobile App Developer focused on building scalable and user-friendly applications.
 </p>
 
 - 🔭 **Current Projects:** Flutter(dart), html5, tailwind CSS, Javascript, C++, C 
 - 👯 **Looking to Collaborate:** React, and Open Source projects.  
 - 🌱 **Currently Learning:** DevOps practices, Kubernetes, and CI/CD pipelines.  
-- 💬 **Ask Me About:** JavaScript, and DevOps tools.  
+- 💬 **Ask Me About:** Flutter, React Native, JavaScript, Firebase, and DevOps tools.  
 - 📫 **Contact Me:** 0805shanvi@gmail.com 
 - ⚡ **Fun Fact:** I believe that every solution starts with curiosity—*spin the wheel and see where it leads!*  
 
