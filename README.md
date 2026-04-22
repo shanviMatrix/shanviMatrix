@@ -32,7 +32,7 @@ Mobile App developer
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,ns,bash,nodejs,mongodb,docker,git,github,linux,vercel,postman,vscode,angular,flutter,firebase,php,react,androidstudio,c,mysql,cisco&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,expo,angular,npm,flutter,androidstudio,firebase,js,ts,python,cpp,c,html,css,tailwind,kotlin,nodejs,php,mongodb,mysql,git,github,vscode,postman,docker,vercel,linux,bash,cisco,figma,canva,leetcode,api&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
