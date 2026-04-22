@@ -44,19 +44,13 @@ Mobile App Developer focused on building scalable and user-friendly applications
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanviMatrix&show_icons=true&theme=tokyonight" alt="Shanvi GitHub Stats" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanviMatrix&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanviMatrix&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shanviMatrix&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
