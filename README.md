@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello, I'm Shanvi</h1>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&color=00C2FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%7C+React+Native;Building+Scalable+Apps;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/shanvi-shanvi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -76,12 +80,6 @@ Mobile App Developer focused on building scalable and user-friendly applications
 </div>
 
 ---
-
-<h2 align="center">💡 Fun Activity</h2>
-<p align="center">Here’s a random programming joke for you:</p>
-<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
-
-
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
